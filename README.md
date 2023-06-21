@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub](https://your-solution-url.com)
-- Live Site URL: [GitHub Page](https://your-live-site-url.com)
+- Solution URL: [GitHub](https://github.com/Ikquilibrium-SG/testimonials-grid-section.git)
+- Live Site URL: [GitHub Page](https://ikquilibrium-sg.github.io/testimonials-grid-section/)
 
 ## My process
 
@@ -63,9 +63,9 @@ To see how you can add code snippets, see below:
 
 ### Useful resources
 
-- [Learn CSS Grid the easy way by Kevin Powell](https://www.youtube.com/watch?v=rg7Fvvl3taU) - This helped me to place things in specific places, also working with media queries i.e. with mobile-first flow then to other display screen.
+- [Learn CSS Grid the easy way by Kevin Powell](https://www.youtube.com/watch?v=rg7Fvvl3taU) - This helped me to place things in specific places, also working with media queries i.e. with mobile-first flow then to other display screen size.
 
-- [Complete Grid Tutorial with Cheat Sheet 2021 || CSS Grid 2021](https://www.youtube.com/watch?v=VXW1r09Y6Tw) - This is an amazing article which helped me to understand how css grid works. I'd recommend it to anyone still learning tabout CSS Grid.
+- [Complete Grid Tutorial with Cheat Sheet 2021 || CSS Grid 2021](https://www.youtube.com/watch?v=VXW1r09Y6Tw) - This is an amazing article which helped me to understand how css grid works. I'd recommend it to anyone still learning about CSS Grid.
 
 
 
